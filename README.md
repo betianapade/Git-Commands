@@ -1,6 +1,9 @@
 Git Commands
 ============
 
+git config --global user.name "bob"
+git config --global user.email bob@...
+
 ## Translated Versions
 - [Versão em português](READMEpt.md)
 
